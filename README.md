@@ -57,6 +57,8 @@ The smart contract for charity donation is deployed at the following Ethernus ad
 ```
 0x4bd848cb39da08905709b4abf584caa915e46a28
 ```
+![Screenshot 2024-08-27 160942](https://github.com/user-attachments/assets/8b87ae5b-1dbf-4fa7-ba6d-0bd897d330fe)
+
 ## Contact
 For any queries, suggestions, or support, please contact us:
 
