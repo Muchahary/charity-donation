@@ -54,9 +54,9 @@ The Transparent Charity Donation Project aims to revolutionize the way donations
 
 ## Smart Contract Address
 The smart contract for charity donation is deployed at the following Ethernus address:
-'''
+```
 0x4bd848cb39da08905709b4abf584caa915e46a28
-'''
+```
 ## Contact
 For any queries, suggestions, or support, please contact us:
 
