@@ -1,5 +1,7 @@
 # Transparent Charity Donation Project
 
+![image](https://github.com/user-attachments/assets/01c5191f-5d4b-4d2b-8c6c-b6e7ec394dd8)
+
 ## Vision
 The Transparent Charity Donation Project aims to revolutionize the way donations are managed and distributed by providing a platform that ensures complete transparency and accountability. Our goal is to build trust between donors and charities by offering real-time tracking of donations, ensuring that every dollar goes exactly where it is intended.
 
@@ -49,6 +51,9 @@ The Transparent Charity Donation Project aims to revolutionize the way donations
 - **AI-Driven Charity Recommendations**: Implement AI algorithms to recommend charities based on donor interests and previous donations.
 - **Blockchain Integration**: Use blockchain technology for even greater transparency and security in donation tracking.
 - **Community Features**: Introduce forums and discussion boards for donors to share their experiences and insights.
+
+## Contract Address
+0x4bd848cb39da08905709b4abf584caa915e46a28
 
 ## Contact
 For any queries, suggestions, or support, please contact us:
