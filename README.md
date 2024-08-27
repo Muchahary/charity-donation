@@ -12,9 +12,35 @@ The Transparent Charity Donation Project aims to revolutionize the way donations
 
 ## Flowchart
 ```plaintext
-[ Donor ] --> [ Create Account ] --> [ Select Charity ] --> [ Make Donation ] --> [ Donation Tracking ] --> [ Receive Report ]
-                               \                                                  /
-                                -> [ Verify Charity Credentials ] <--
+  +--------------------+
+  |   Donor            |
+  +--------------------+
+            |
+            v
+  +--------------------+
+  |  Create Account    |
+  +--------------------+
+            |
+            v
+  +--------------------+
+  | Select Charity     |
+  +--------------------+
+            |
+            v
+  +--------------------+
+  |   Make Donation    |
+  +--------------------+
+            |
+            v
+  +--------------------+
+  |  Donation Tracking |
+  +--------------------+
+            |
+            v
+  +--------------------+
+  | Receive Report     |
+  +--------------------+
+
 ```
 
 ## Future Scope
@@ -27,16 +53,16 @@ The Transparent Charity Donation Project aims to revolutionize the way donations
 ## Contact
 For any queries, suggestions, or support, please contact us:
 
-**Email**: support@transparentcharity.org  
-**Phone**: +1 (234) 567-8901  
+**Email**: www.muchahary@gmail.com  
+**Phone**: +91 9957709736  
 **Address**: Transparent Charity Donation Project, 1234 Charity Lane, Goodwill City, Trustland 56789
 
 ## Project Lead Contact
 For direct communication with the project lead, please reach out to:
 
-**Name**: [Your Name]  
-**Email**: [your.email@example.com]  
-**Phone**: [Your Phone Number]  
+**Name**: Dwmwi Muchahary  
+**Email**: www.muchahary@gmail.com  
+**Phone**: 9957709736  
 **LinkedIn**: [Your LinkedIn Profile]
 
 ---
