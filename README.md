@@ -64,7 +64,7 @@ For any queries, suggestions, or support, please contact us:
 
 **Email**: www.muchahary@gmail.com  
 **Phone**: +91 9957709736  
-**Address**: Transparent Charity Donation Project, 1234 Charity Lane, Goodwill City, Trustland 56789
+**Address**: Transparent Charity Donation Project, Killing road, Techno city, Ri-bhoi 793101
 
 ## Project Lead Contact
 For direct communication with the project lead, please reach out to:
@@ -72,6 +72,6 @@ For direct communication with the project lead, please reach out to:
 **Name**: Dwmwi Muchahary  
 **Email**: www.muchahary@gmail.com  
 **Phone**: 9957709736  
-**LinkedIn**: [Your LinkedIn Profile]
+**LinkedIn**: Dwmwi Muchahary
 
 ---
